@@ -41,8 +41,8 @@
 
 ### 📫 Contact
 <p align="center">
-  📧 Email: <a href="mailto:lehuonggiang.mta@gmail.com">youremail@example.com</a> <br>
-  🌐 GitHub: <a href="https://github.com/4Sh3404">github.com/YOUR_USERNAME</a>
+  📧 Email: <a href="mailto:lehuonggiang.mta@gmail.com">lehuonggiang.mta@gmail.com</a> <br>
+  🌐 GitHub: <a href="https://github.com/4Sh3404">github.com/4Sh3404</a>
 </p>
 
 ---

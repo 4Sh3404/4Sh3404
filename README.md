@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Huong Giang!</h1>
 
-<!--
-**4Sh3404/4Sh3404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 First-year student majoring in <b>Cybersecurity</b> <br>
+  🏫 Le Quy Don Technical University
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+- 🔰 I’m just beginning my journey in **cybersecurity, information safety, and technology**  
+- 💡 Currently learning the basics of **computer systems, operating systems, networking, and security fundamentals**  
+- 🎯 My goal: to become a professional **cybersecurity specialist** in the future  
+- ⚡ Hobbies: learning new things, sports, and joining team activities
+
+---
+
+### 🛠️ My Learning Plan
+- [ ] Understand the **basics of computer networks and the internet**  
+- [ ] Learn to use **Linux and the terminal**  
+- [ ] Start learning **Python** for simple automation tasks  
+- [ ] Explore **data structures and algorithms**  
+- [ ] Study **system security principles and encryption**
+
+---
+
+### 📘 Favorite Subjects
+- 🔒 Introduction to Information Security  
+- 🧠 Computer Architecture  
+- 💻 Basic Informatics  
+- 🌐 Computer Networks
+
+---
+
+### 📈 My Journey on GitHub
+> I’m using GitHub to store assignments, small projects, and track my learning progress 🚀  
+> 
+> “Every commit is a small step forward on the path to becoming a cybersecurity expert.”
+
+---
+
+### 📫 Contact
+<p align="center">
+  📧 Email: <a href="mailto:youremail@example.com">youremail@example.com</a> <br>
+  🌐 GitHub: <a href="https://github.com/YOUR_USERNAME">github.com/YOUR_USERNAME</a>
+</p>
+
+---
+
+### 💬 Favorite Quote
+> “Security is not a product — it’s a process.” 🔐
+
